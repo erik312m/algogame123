@@ -1,1 +1,1 @@
-**This is bold text**
+	`#RRGGBB`**This is bold text**
